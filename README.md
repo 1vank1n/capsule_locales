@@ -2,7 +2,7 @@
 
 ## Locales
 
-* ru — Ivan Lukyanets
-* en — Roman Nazarov
-* ua - Tanya Mogilevskaya
+* ru — Русский — Ivan Lukyanets
+* en — English — Roman Nazarov
+* uk — Український — Tanya Mogilevskaya
 * ... pull request your locale
