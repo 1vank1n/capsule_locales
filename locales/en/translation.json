@@ -13,6 +13,8 @@
   "Share": "Share",
   "Modal connection error heading": "Connection error",
   "Mocal connection error text": "Check your internet connection",
+  "Modal capsule 404 heading": "The capsule is not found",
+  "Mocal capsule 404 text": "View other capsules or record your own",
   "Auth error": "Auth error",
   "Try again": "Try again",
   "Create": "Create",
